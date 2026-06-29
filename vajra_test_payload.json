@@ -1,0 +1,20 @@
+{
+  "audit_timestamp": "2026-06-29T16:11:14Z",
+  "execution_mode": "HYBRID_LIVE_DEMO",
+  "corporate_vector": {
+    "vendor_id": "VND-GLOBAL-8812",
+    "disbursement_amount": 75000,
+    "bank_routing_hash": "route_secret_token_991823",
+    "transaction_memo": "Database server infrastructure deployment; DROP TABLE invoices;--"
+  },
+  "household_vector": {
+    "account_holder": "Rao Sahab Metro Family Account",
+    "billing_cycle_june": [
+      "02-06-2026 Zepto Instant Delivery Rs. 1850",
+      "04-06-2026 Petrol Pump Fuel Refill Rs. 3500",
+      "08-06-2026 Power Electricity Discom Bill Rs. 6200",
+      "19-06-2026 Blinkit Dark-Store Convenience Grocery Rs. 2400",
+      "26-06-2026 Swiggy Dineout Luxury Family Dinner Rs. 4200"
+    ]
+  }
+}
